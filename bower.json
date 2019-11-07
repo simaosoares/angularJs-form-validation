@@ -1,0 +1,24 @@
+{
+  "name": "angularJs-form-validation",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap3",
+    "html5",
+    "javascript",
+    "angularJs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.4.1",
+    "angular": "angularjs#^1.7.8"
+  }
+}
